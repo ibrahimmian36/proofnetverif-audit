@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these findings, please cite them as below."
+type: dataset
+title: "ProofNetVerif Faithfulness Audit"
+abstract: "Confirmed defects in the reference Lean 4 formalizations and in the correctness labels of the ProofNetVerif valid split (PAug/ProofNetVerif, revision 91183e5b12d64374827bf2782db629b5b0f8f319)."
+authors:
+  - family-names: Mian
+    given-names: Ibrahim
+    affiliation: Millennium Research
+    email: ibrahimnmian@gmail.com
+  - family-names: Siddique
+    given-names: Shayaan
+    affiliation: Millennium Research
+repository-code: "https://github.com/ibrahimmian36/proofnetverif-audit"
+url: "https://github.com/ibrahimmian36/proofnetverif-audit"
+license: CC-BY-4.0
+date-released: 2026-09-28
+keywords:
+  - Lean 4
+  - autoformalization
+  - benchmark audit
+  - ProofNetVerif
